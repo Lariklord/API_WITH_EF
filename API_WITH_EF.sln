@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_WITH_EF", "API_WITH_EF\API_WITH_EF.csproj", "{A54A1D7C-D0CE-4A97-BBE1-E7304A3E43B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54A1D7C-D0CE-4A97-BBE1-E7304A3E43B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54A1D7C-D0CE-4A97-BBE1-E7304A3E43B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54A1D7C-D0CE-4A97-BBE1-E7304A3E43B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54A1D7C-D0CE-4A97-BBE1-E7304A3E43B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA068DBD-8224-421D-8EF8-E8863081A61D}
+	EndGlobalSection
+EndGlobal
